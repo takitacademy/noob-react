@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/takitacademy.github.io/noob-react/static/css/main.f6b959c4.chunk.css",
+    "main.js": "/takitacademy.github.io/noob-react/static/js/main.051829a0.chunk.js",
+    "main.js.map": "/takitacademy.github.io/noob-react/static/js/main.051829a0.chunk.js.map",
+    "runtime-main.js": "/takitacademy.github.io/noob-react/static/js/runtime-main.977444f3.js",
+    "runtime-main.js.map": "/takitacademy.github.io/noob-react/static/js/runtime-main.977444f3.js.map",
+    "static/js/2.f659d0f7.chunk.js": "/takitacademy.github.io/noob-react/static/js/2.f659d0f7.chunk.js",
+    "static/js/2.f659d0f7.chunk.js.map": "/takitacademy.github.io/noob-react/static/js/2.f659d0f7.chunk.js.map",
+    "index.html": "/takitacademy.github.io/noob-react/index.html",
+    "static/css/main.f6b959c4.chunk.css.map": "/takitacademy.github.io/noob-react/static/css/main.f6b959c4.chunk.css.map",
+    "static/js/2.f659d0f7.chunk.js.LICENSE.txt": "/takitacademy.github.io/noob-react/static/js/2.f659d0f7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/takitacademy.github.io/noob-react/static/media/boobs.313295ce.png",
+    "static/media/home.f4215dbc.svg": "/takitacademy.github.io/noob-react/static/media/home.f4215dbc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977444f3.js",
+    "static/js/2.f659d0f7.chunk.js",
+    "static/css/main.f6b959c4.chunk.css",
+    "static/js/main.051829a0.chunk.js"
+  ]
+}
