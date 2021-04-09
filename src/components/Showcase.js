@@ -3,26 +3,26 @@ const Showcase = () => {
     const recipes = [
         {
           id: 1,
-          title: "mac and cheese",
+          title: "Big Mac and Cheese",
           image: ''
         },
         {
           id: 2,
-          title: "Super taco for the whole family",
+          title: "Super Taco for the whole Family",
           image: ''
         },
         {
           id: 3,   
-          title: "Homemade sushi",
+          title: "Homemade Sushi",
           image: ''
         }
     ];  
     
     return (
-        <div>
+        <div className = 'showcase'>
             {recipes.map((recipe) => (
-                <div key={recipe.id} className = 'showcase'>
-                    <h4>{recipe.title}</h4>
+                <div key={recipe.id} className='show'>
+                  <h4>{recipe.title}</h4>
                 </div>
             ))}
         </div>

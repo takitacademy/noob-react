@@ -1,5 +1,5 @@
 import React from 'react';
-import home from './img/home.svg'
+import home from './home.svg'
 
 const Dashboard = () => {
     return (
